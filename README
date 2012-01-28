@@ -1,5 +1,5 @@
-This project contains a web-based status/monitor for the Condor Project
-(http://research.cs.wisc.edu/condor/), written in PHP.
+This is a web-based status/monitor, written in PHP, for the Condor Project
+(http://research.cs.wisc.edu/condor/).
 
 
 
