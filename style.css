@@ -1,0 +1,26 @@
+
+/* alternate row colors */
+tr.d0 td {
+	background-color: #B3F0FF; color: black;
+}
+tr.d1 td {
+	background-color: #E0E0E0; color: black;
+}
+/* old alternate row colors
+
+tr.d0 td {
+	background-color: #FCF6CF; color: black;
+}
+tr.d1 td {
+	background-color: #FEFEF2; color: black;
+}
+*/
+
+/* table header colors */
+tr.d2 th {
+	/* UCLA Blue and Gold */
+	background-color: #536895; color: #FFB300;
+	/* Conexant red
+	color: #E10827
+	*/
+}
